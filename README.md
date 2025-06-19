@@ -36,7 +36,7 @@
 ---
 
 <!-- استبدل الرابط التالي برابط صورتك الشخصية -->
-<img src="[https://avatars.githubusercontent.com/u/123456789?v=4](https://raw.githubusercontent.com/sb3ly/sb3ly/refs/heads/main/assets/goko404-removebg-preview.png)" width="180px" alt="sb3ly"/>
+<img src="https://avatars.githubusercontent.com/u/123456789?v=4](https://raw.githubusercontent.com/sb3ly/sb3ly/refs/heads/main/assets/goko404-removebg-preview.png" width="180px" alt="sb3ly"/>
 
 ## @sb3ly  
 *Ethical Hacker in the Making*
