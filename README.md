@@ -60,7 +60,3 @@
 <a href="https://instagram.com/sb3ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sb3ly" height="30" width="40" /></a>
 <a href="/https://sb3ly.github.io/madar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sb3ly.github.io/madar/" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sb3ly&show_icons=true&locale=en&layout=compact" alt="sb3ly" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sb3ly&show_icons=true&locale=en" alt="sb3ly" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sb3ly&" alt="sb3ly" /></p>
