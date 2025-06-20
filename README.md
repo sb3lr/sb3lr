@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/PurpleHallos/PurpleHallos/main/assets/parade.webp" width="300px" alt="Security Shield"/>
+<img src="https://raw.githubusercontent.com/sb3ly/sb3ly/refs/heads/main/assets/github-header-image.png" width="300px" alt="Security Shield"/>
 
 ---
 
