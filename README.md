@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2AA7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World+%F0%9F%91%8B%2C+Welcome+to+my+GitHub!;I'm+sb3ly%2C+a+cybersecurity+enthusiast+%26+tool+developer)
 
----
+ ---
 
 ## ✨ About Me
 
