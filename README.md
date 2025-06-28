@@ -15,11 +15,12 @@
 
 <td width="50%" valign="top">
 <blockquote>
-  <p>I'm Saeed, a cybersecurity enthusiast and vulnerability researcher. I love diving deep into the world of web security, exploring systems to uncover flaws and protect them. Whether it's XSS, CSRF, or more advanced exploits, I'm always eager to learn and challenge myself.</p>
+  <p>I'm Saeed, a self-taught cybersecurity enthusiast deeply passionate about web security, malware analysis, network testing, and phishing detection. I explore systems not only to uncover vulnerabilities but also to understand how attacks happen across layers—from the web to the network level.</p>
   <ul>
-    <li>🧠 <strong>Always Exploring:</strong> Constantly studying security techniques and real-world attack vectors.</li>
-    <li>🔍 <strong>Focus:</strong> Web vulnerabilities, ethical hacking, and bug bounty hunting.</li>
-    <li>💡 <strong>My Mission:</strong> Make the web a safer place through discovery and defense.</li>
+    <li>🧠 <strong>Always Exploring:</strong> XSS, CSRF, SSRF, logic flaws, and network misconfigurations.</li>
+    <li>💣 <strong>Also Interested In:</strong> Malware behavior, DDoS simulations, and fraud techniques.</li>
+    <li>🛡️ <strong>Security Awareness:</strong> Investigating fake websites, phishing pages, and social engineering tactics.</li>
+    <li>💡 <strong>My Mission:</strong> To master both offensive and defensive security through hands-on research and ethical practice.</li>
   </ul>
   <p>🔗 <strong>GitHub:</strong> <a href="https://github.com/SB3LY" target="_blank">github.com/SB3LY</a></p>
 </blockquote>
@@ -27,11 +28,12 @@
 
 <td width="50%" valign="top" dir="rtl">
 <blockquote dir="rtl">
-  <p>أنا سعيد، هاوي ومختص في مجال الأمن السيبراني واكتشاف الثغرات. أحب الغوص في أعماق أمن الويب وتحليل الأنظمة لاكتشاف الثغرات وتأمينها. سواء كانت XSS، CSRF، أو استغلالات أكثر تعقيداً، أسعى دائماً للتعلم وتحدي نفسي.</p>
+  <p>أنا سعيد، هاوي أمن سيبراني أتعلم ذاتياً، شغوف بأمن الويب، تحليل المالوير، فحص الشبكات، وكشف المواقع المزورة. لا أكتفي باكتشاف الثغرات فقط، بل أبحث في كيفية حدوث الهجمات من الطبقات المختلفة، بدءًا من التطبيقات إلى الشبكة.</p>
   <ul>
-    <li>🧠 <strong>أستكشف باستمرار:</strong> أدرس تقنيات الحماية ونواقل الهجوم الواقعية.</li>
-    <li>🔍 <strong>مجال اهتمامي:</strong> ثغرات الويب، الاختراق الأخلاقي، وصيد الجوائز (Bug Bounty).</li>
-    <li>💡 <strong>رسالتي:</strong> جعل الويب أكثر أماناً من خلال الاكتشاف والحماية.</li>
+    <li>🧠 <strong>أستكشف باستمرار:</strong> ثغرات XSS وCSRF وSSRF والأخطاء المنطقية وأخطاء الشبكة.</li>
+    <li>💣 <strong>أهتم أيضاً بـ:</strong> سلوك المالوير، محاكاة هجمات DDoS، وأساليب الاحتيال الرقمي.</li>
+    <li>🛡️ <strong>الوعي الأمني:</strong> تحليل مواقع التصيّد، الصفحات المزورة، وهجمات الهندسة الاجتماعية.</li>
+    <li>💡 <strong>رسالتي:</strong> إتقان الهجوم والدفاع في الأمن السيبراني من خلال البحث والممارسة الأخلاقية.</li>
   </ul>
   <p>🔗 <strong>جيت هب:</strong> <a href="https://github.com/SB3LY" target="_blank">github.com/SB3LY</a></p>
 </blockquote>
@@ -39,7 +41,6 @@
 
 </tr>
 </table>
-
 <br>
 
 <img src="https://raw.githubusercontent.com/sb3ly/sb3ly/refs/heads/main/assets/LOAAAD.gif" width="300px" alt="Security Shield"/>
