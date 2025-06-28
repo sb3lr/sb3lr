@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2AA7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World+%F0%9F%91%8B%2C+Welcome+to+my+GitHub!;I'm+sb3ly%2C+a+cybersecurity+enthusiast+%26+tool+developer)
 
- ---
+---
 
 ## ✨ About Me
 
@@ -43,20 +43,22 @@
 
 </div>
 
-- 🔭 I’m currently working on [Madar](https://github.com/sb3ly/madar)
-- 🌱 I’m currently learning **Cybersecurity, ethical hacking, network scanning, and React**
-- 👯 I’m looking to collaborate on [Open-source cybersecurity tools and educational projects](https://github.com/sb3ly)
-- 🤝 I’m looking for help with [Improving Madar and adding more detection techniques](https://github.com/sb3ly/madar)
-- 👨‍💻 All of my projects are available at [🔗 https://github.com/sb3ly](🔗 https://github.com/sb3ly)
-- 📝 I regularly write articles on [(قريبًا بإذن الله 😊)]((قريبًا بإذن الله 😊))
-- 💬 Ask me about **💬 X: [@sb3ly](https://X.com/sb3ly)**
-- 📫 How to reach me **h_3x@outlook.sa**
-- 📄 Know about my experiences [Under construction - resume coming soon](Under construction - resume coming soon)
+---
+
+- 🔭 I’m currently working on [Madar](https://github.com/sb3ly/madar)  
+- 🌱 I’m currently learning **Cybersecurity, ethical hacking, network scanning, and React**  
+- 👯 I’m looking to collaborate on [Open-source cybersecurity tools and educational projects](https://github.com/sb3ly)  
+- 🤝 I’m looking for help with [Improving Madar and adding more detection techniques](https://github.com/sb3ly/madar)  
+- 👨‍💻 All of my projects are available at [🔗 https://github.com/sb3ly](https://github.com/sb3ly)  
+- 📝 I regularly write articles on [(قريبًا بإذن الله 😊)]((قريبًا بإذن الله 😊))  
+- 💬 Ask me about **💬 X: [@sb3ly](https://X.com/sb3ly)**  
+- 📫 How to reach me **h_3x@outlook.sa**  
+- 📄 Know about my experiences [Under construction - resume coming soon](Under construction - resume coming soon)  
 - ⚡ Fun fact **I enjoy breaking things to understand how they work — ethically, of course 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sb3ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sb3ly" height="30" width="40" /></a>
-<a href="https://instagram.com/sb3ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sb3ly" height="30" width="40" /></a>
-<a href="/https://sb3ly.github.io/madar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sb3ly.github.io/madar/" height="30" width="40" /></a>
+<a href="https://twitter.com/sb3ly" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sb3ly" height="30" width="40" /></a>
+<a href="https://instagram.com/sb3ly" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sb3ly" height="30" width="40" /></a>
+<a href="https://sb3ly.github.io/madar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Website" height="30" width="40" /></a>
 </p>
