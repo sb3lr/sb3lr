@@ -6,10 +6,39 @@
 ---
 
 ## ✨ About Me
+<div align="center">
+  <h2>✨ About Me | نبذة عني ✨</h2>
+</div>
 
-**Identity:** Cybersecurity Student 🔒  
-**Passion:** Building security tools & learning ethical hacking 🛠️  
-**Hobbies:** Breaking things (ethically!), researching vulnerabilities 🧪  
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+<blockquote>
+  <p>I'm Saeed, a cybersecurity enthusiast and vulnerability researcher. I love diving deep into the world of web security, exploring systems to uncover flaws and protect them. Whether it's XSS, CSRF, or more advanced exploits, I'm always eager to learn and challenge myself.</p>
+  <ul>
+    <li>🧠 <strong>Always Exploring:</strong> Constantly studying security techniques and real-world attack vectors.</li>
+    <li>🔍 <strong>Focus:</strong> Web vulnerabilities, ethical hacking, and bug bounty hunting.</li>
+    <li>💡 <strong>My Mission:</strong> Make the web a safer place through discovery and defense.</li>
+  </ul>
+  <p>🔗 <strong>GitHub:</strong> <a href="https://github.com/SB3LY" target="_blank">github.com/SB3LY</a></p>
+</blockquote>
+</td>
+
+<td width="50%" valign="top" dir="rtl">
+<blockquote dir="rtl">
+  <p>أنا سعيد، هاوي ومختص في مجال الأمن السيبراني واكتشاف الثغرات. أحب الغوص في أعماق أمن الويب وتحليل الأنظمة لاكتشاف الثغرات وتأمينها. سواء كانت XSS، CSRF، أو استغلالات أكثر تعقيداً، أسعى دائماً للتعلم وتحدي نفسي.</p>
+  <ul>
+    <li>🧠 <strong>أستكشف باستمرار:</strong> أدرس تقنيات الحماية ونواقل الهجوم الواقعية.</li>
+    <li>🔍 <strong>مجال اهتمامي:</strong> ثغرات الويب، الاختراق الأخلاقي، وصيد الجوائز (Bug Bounty).</li>
+    <li>💡 <strong>رسالتي:</strong> جعل الويب أكثر أماناً من خلال الاكتشاف والحماية.</li>
+  </ul>
+  <p>🔗 <strong>جيت هب:</strong> <a href="https://github.com/SB3LY" target="_blank">github.com/SB3LY</a></p>
+</blockquote>
+</td>
+
+</tr>
+</table>
 
 <br>
 
