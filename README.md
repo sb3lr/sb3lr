@@ -4,8 +4,6 @@
 
 
 ---
-
-## ✨ About Me
 <div align="center">
   <h2>✨ About Me | نبذة عني ✨</h2>
 </div>
