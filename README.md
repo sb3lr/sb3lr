@@ -75,11 +75,8 @@
 ---
 
 - 🔭 I’m currently working on [Madar](https://github.com/sb3ly/madar)  
-- 🌱 I’m currently learning **Cybersecurity, ethical hacking, network scanning, and React**  
-- 👯 I’m looking to collaborate on [Open-source cybersecurity tools and educational projects](https://github.com/sb3ly)  
-- 🤝 I’m looking for help with [Improving Madar and adding more detection techniques](https://github.com/sb3ly/madar)  
+- 🌱 I’m currently learning **Cybersecurity, ethical hacking, network scanning**  
 - 👨‍💻 All of my projects are available at [🔗 https://github.com/sb3ly](https://github.com/sb3ly)  
-- 📝 I regularly write articles on [(قريبًا بإذن الله 😊)]((قريبًا بإذن الله 😊))  
 - 💬 Ask me about **💬 X: [@sb3ly](https://X.com/sb3ly)**  
 - 📫 How to reach me **h_3x@outlook.sa**  
 - 📄 Know about my experiences [Under construction - resume coming soon](Under construction - resume coming soon)  
