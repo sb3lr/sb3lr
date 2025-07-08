@@ -15,7 +15,7 @@
 <blockquote>
   <p>I'm Saeed, a self-taught cybersecurity enthusiast deeply passionate about web security, malware analysis, network testing, and phishing detection. I explore systems not only to uncover vulnerabilities but also to understand how attacks happen across layers—from the web to the network level.</p>
   <ul>
-    <li>🧠 <strong>Always Exploring:</strong> XSS, CSRF, SSRF, logic flaws, and network misconfigurations.</li>
+    <li>🧠 <strong> Exploring:</strong> XSS, CSRF, SSRF, logic flaws, and network misconfigurations.</li>
     <li>💣 <strong>Also Interested In:</strong> Malware behavior, DDoS simulations, and fraud techniques.</li>
     <li>🛡️ <strong>Security Awareness:</strong> Investigating fake websites, phishing pages, and social engineering tactics.</li>
     <li>💡 <strong>My Mission:</strong> To master both offensive and defensive security through hands-on research and ethical practice.</li>
@@ -28,7 +28,7 @@
 <blockquote dir="rtl">
   <p>أنا سعيد، هاوي أمن سيبراني أتعلم ذاتياً، شغوف بأمن الويب، تحليل المالوير، فحص الشبكات، وكشف المواقع المزورة. لا أكتفي باكتشاف الثغرات فقط، بل أبحث في كيفية حدوث الهجمات من الطبقات المختلفة، بدءًا من التطبيقات إلى الشبكة.</p>
   <ul>
-    <li>🧠 <strong>أستكشف باستمرار:</strong> ثغرات XSS وCSRF وSSRF والأخطاء المنطقية وأخطاء الشبكة.</li>
+    <li>🧠 <strong>أستكشف :</strong> ثغرات XSS وCSRF وSSRF والأخطاء المنطقية وأخطاء الشبكة.</li>
     <li>💣 <strong>أهتم أيضاً بـ:</strong> سلوك المالوير، محاكاة هجمات DDoS، وأساليب الاحتيال الرقمي.</li>
     <li>🛡️ <strong>الوعي الأمني:</strong> تحليل مواقع التصيّد، الصفحات المزورة، وهجمات الهندسة الاجتماعية.</li>
     <li>💡 <strong>رسالتي:</strong> إتقان الهجوم والدفاع في الأمن السيبراني من خلال البحث والممارسة الأخلاقية.</li>
