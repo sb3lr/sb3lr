@@ -80,7 +80,7 @@
 - 🔭 I’m currently working on [Madar]()  
 - 🌱 I’m currently learning **Cybersecurity, ethical hacking, network scanning**  
 - 👨‍💻 All of my projects are available at [🔗 https://github.com/sb3lr]
-- 💬 Ask me about **💬 X: [@sb3lr](https://X.com/sb3lr)**  
+- 💬 Ask me about **💬 X: [@0xsb3lr](https://X.com/0xsb3lr)**  
 - 📫 How to reach me **h_3x@outlook.sa**  
 - 📄 Know about my experiences [Under construction - resume coming soon](Under construction - resume coming soon)  
 - ⚡ Fun fact **I enjoy breaking things to understand how they work — ethically, of course 😄**
