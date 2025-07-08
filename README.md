@@ -20,7 +20,7 @@
     <li>🛡️ <strong>Security Awareness:</strong> Investigating fake websites, phishing pages, and social engineering tactics.</li>
     <li>💡 <strong>My Mission:</strong> To master both offensive and defensive security through hands-on research and ethical practice.</li>
   </ul>
-  <p>🔗 <strong>GitHub:</strong> <a href="https://github.com/syslq" target="_blank">github.com/syslq</a></p>
+  <p>🔗 <strong>GitHub:</strong> <a href="https://github.com/sb3lr" target="_blank">github.com/sb3lr</a></p>
 </blockquote>
 </td>
 
@@ -36,7 +36,7 @@
   <br>
 <br>
 
-  <p>🔗 <strong>جيت هب:</strong> <a href="https://github.com/syslq" target="_blank">github.com/syslq</a></p>
+  <p>🔗 <strong>جيت هب:</strong> <a href="https://github.com/sb3lr" target="_blank">github.com/sb3lr</a></p>
 </blockquote>
 </td>
 
@@ -44,7 +44,7 @@
 </table>
 <br>
 
-<img src="https://raw.githubusercontent.com/syslq/syslq/refs/heads/main/assets/LOAAAD.gif" width="300px" alt="Security Shield"/>
+<img src="https://raw.githubusercontent.com/sb3lr/sb3lr/refs/heads/main/assets/LOAAAD.gif" width="300px" alt="Security Shield"/>
 
 ---
 
@@ -68,9 +68,9 @@
 ---
 
 <!-- استبدل الرابط التالي برابط صورتك الشخصية -->
-<img src="https://raw.githubusercontent.com/syslq/syslq/refs/heads/main/assets/goko404-removebg-preview.png" width="180px" alt="syslq"/>
+<img src="https://raw.githubusercontent.com/sb3lr/sb3lr/refs/heads/main/assets/goko404-removebg-preview.png" width="180px" alt="sb3lr"/>
 
-## @syslq  
+## @sb3lr  
 *Ethical Hacker in the Making*
 
 </div>
@@ -79,15 +79,15 @@
 
 - 🔭 I’m currently working on [Madar]()  
 - 🌱 I’m currently learning **Cybersecurity, ethical hacking, network scanning**  
-- 👨‍💻 All of my projects are available at [🔗 https://github.com/syslq]
-- 💬 Ask me about **💬 X: [@syslq](https://X.com/syslq)**  
+- 👨‍💻 All of my projects are available at [🔗 https://github.com/sb3lr]
+- 💬 Ask me about **💬 X: [@sb3lr](https://X.com/sb3lr)**  
 - 📫 How to reach me **h_3x@outlook.sa**  
 - 📄 Know about my experiences [Under construction - resume coming soon](Under construction - resume coming soon)  
 - ⚡ Fun fact **I enjoy breaking things to understand how they work — ethically, of course 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0xsyslq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syslq" height="30" width="40" /></a>
-<a href="https://instagram.com/syslq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syslq" height="30" width="40" /></a>
-<a href="https://syslq.github.io/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Website" height="30" width="40" /></a>
+<a href="https://twitter.com/0xsb3lr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sb3lr" height="30" width="40" /></a>
+<a href="https://instagram.com/sb3lr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sb3lr" height="30" width="40" /></a>
+<a href="https://sb3lr.github.io/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Website" height="30" width="40" /></a>
 </p>
