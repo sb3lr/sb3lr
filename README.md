@@ -59,9 +59,6 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D?style=flat&logo=arduino&logoColor=white)
 ![VM](https://camo.githubusercontent.com/653d54c4c50ed2a8d939de17bfd1e49780698c1ebf53dfcf4dfc195c925e27eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7669727475616c626f782d2532333138334136313f7374796c653d666c6174266c6f676f3d7669727475616c626f78266c6f676f436f6c6f723d7768697465)
 
 ---
