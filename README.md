@@ -12,7 +12,7 @@
 <tr>
 
 <td width="50%" valign="top">
-<blockquote>
+<blockquote> 
   <p>I'm Saeed, a self-taught cybersecurity enthusiast deeply passionate about web security, malware analysis, network testing, and phishing detection. I explore systems not only to uncover vulnerabilities but also to understand how attacks happen across layers—from the web to the network level.</p>
   <ul>
     <li>🧠 <strong> Exploring:</strong> XSS, CSRF, SSRF, logic flaws, and network misconfigurations.</li>
