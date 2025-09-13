@@ -64,7 +64,7 @@
 ---
 
 <!-- استبدل الرابط التالي برابط صورتك الشخصية -->
-<img src="https://raw.githubusercontent.com/sb3lr/sb3lr/refs/heads/main/assets/mememe.jpg" width="180px" alt="sb3lr"/>
+<img src="https://raw.githubusercontent.com/sb3lr/sb3lr/refs/heads/main/assets/goko404-removebg-preview.png" width="180px" alt="sb3lr"/>
 
 ## @sb3lr  
 *Ethical Hacker in the Making*
