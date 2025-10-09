@@ -15,7 +15,7 @@
 <blockquote> 
   <p>I'm Saeed, a self-taught cybersecurity enthusiast deeply passionate about web security, malware analysis, network testing, and phishing detection. I explore systems not only to uncover vulnerabilities but also to understand how attacks happen across layers—from the web to the network level.</p>
   <ul>
-    <li>🧠 <strong> Exploring:</strong> XSS, CSRF, SSRF, logic flaws, and network misconfigurations.</li>
+    <li>🧠 <strong> Exploring:</strong> XSS, CSRF, SSRF, logic error, and network misconfigurations.</li>
     <li>💣 <strong>Also Interested In:</strong> Malware behavior, DDoS simulations, and fraud techniques.</li>
     <li>🛡️ <strong>Security Awareness:</strong> Investigating fake websites, phishing pages, and social engineering tactics.</li>
     <li>💡 <strong>My Mission:</strong> To master both offensive and defensive security through hands-on research and ethical practice.</li>
