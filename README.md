@@ -1,7 +1,4 @@
-# Hello there! I'm Saeed 👋
-
-<!-- النص المتحرك الاحترافي تم تحويله لرابط ماركداون مباشر وبسيط -->
-![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8500F7&background=FF0C9400&center=true&vCenter=true&width=435&lines=Hello+there!+I'm+Saeed+👋;Cybersecurity+Student;Tool+Developer;Ethical+Hacker;Exploring+the+world+of+Cybersecurity)](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8500F7&background=FF0C9400&center=true&vCenter=true&width=435&lines=Hello+there!+I'm+Saeed+%F0%9F%91%8B+;Cybersecurity+Student+;Tool+Developer+;Ethical+Hacker+;Exploring+the+world+of+Cybersecurity)](https://git.io/typing-svg)
 
 <div align="center">
 
